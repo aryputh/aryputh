@@ -4,6 +4,14 @@ For a comprehensive overview of my background, experience, and how to connect, p
 
 ### 🔓 Public Repositories
 
+**dining-meal-management-system (Database Systems)**
+- Centralizes meal planning, ordering, payment, and feedback for students and administrators.
+- Provides real-time analytics and secure user management to optimize dining operations.
+
+**hackassign-project (Software Engineering Principles)**
+- Automates assignment creation, code submission, and instant feedback with customizable test cases.
+- Enables role-based class management and performance analytics for instructors and students.
+
 **cpts-122-programming-assignments (Data Structures C/C++)**
 - Assignments: Analyzing Fitness Data, Digital Music Manager, Basic Fitness Application, Grocery Store Simulation, Morse Code Lookup BST, Attendance Tracker, and Data Analysis using BSTs
 

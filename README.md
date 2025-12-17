@@ -42,6 +42,13 @@ Access to these repos is available upon request:
 - Implements a subset of the PostScript language in Python.  
 - Features stack operations, arithmetic, dictionary management, string manipulation, flow control, dynamic/lexical scoping, and an interactive REPL.
 
+**cpts360-assignments (Systems Programming)**
+- Assignment 0: Unix File System Simulator
+- Assignment 1: Cache Memory System Simulator
+- Assignment 2: CPU Scheduling Simulator
+- Assignment 3: Linux Kernel Programming Lab
+- Assignment 4: Web Proxy
+
 **Unity Game Development Repositories**
 - Playable games and prototypes built in Unity, focused on rapid prototyping, iteration, and creative mechanics.
 
